@@ -1,2 +1,2 @@
-# C21-Bullet-Collision
-Reliability test of Wall against bullet
+# p5.play-boilerplate
+Boiler plate for p5.play
